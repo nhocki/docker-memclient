@@ -5,6 +5,8 @@
 ```
 $ docker run -it nhocki/memclient
 
+/go/bin # ./memclient 
+
 Usage: memclient [OPTIONS] COMMAND [arg...]
 
 Simple command-line client for Memcached
